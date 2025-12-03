@@ -1,4 +1,4 @@
-#H-002 Hyper-Personalized Customer Experience AI Agent  
+# H-002 Hyper-Personalized Customer Experience AI Agent  
 **GroundTruth Tech Hackathon 2025 – Track: Customer Experience & Conversational AI**
 
 ## Overview
