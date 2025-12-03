@@ -1,0 +1,8 @@
+{
+  "u123": {
+    "name": "Alex",
+    "loyalty_tier": "Gold",
+    "preferences": ["Hot Cocoa", "Mocha", "Warm settings"],
+    "last_purchase": "Iced Latte (2 days ago)"
+  }
+}

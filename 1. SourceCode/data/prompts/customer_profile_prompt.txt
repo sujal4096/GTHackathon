@@ -1,0 +1,3 @@
+Generate the contents of the file: /hyper-personalized-cx-ai-agent/hyper-personalized-cx-ai-agent/data/prompts/customer_profile_prompt.txt 
+
+Generate a customer profile based on the provided context.

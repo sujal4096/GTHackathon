@@ -1,0 +1,16 @@
+[
+  {
+    "store_id": "s01",
+    "name": "Starbucks Downtown",
+    "location": "50m away",
+    "status": "Open",
+    "promotions": ["10% off Hot Cocoa", "Free Cookie with Latte"]
+  },
+  {
+    "store_id": "s02",
+    "name": "Dunkin Donuts",
+    "location": "200m away",
+    "status": "Closing Soon",
+    "promotions": []
+  }
+]
