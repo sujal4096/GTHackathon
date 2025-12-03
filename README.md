@@ -30,19 +30,7 @@ We went beyond simple keyword matching.
 
 ---
 
-## Technical Architecture
 
-**The Data Pipeline:**
-```mermaid
-graph TD;
-    A[User Message] -->|Input| B(PII Guardrail);
-    B -->|Masked Text| C{Context Engine};
-    C -->|Fetch| D[User Profile JSON];
-    C -->|Fetch| E[Store Metadata JSON];
-    C -->|Vector Search| F[FAISS / RAG Retriever];
-    F -->|Policy Docs| G[Prompt Builder];
-    G -->|Structured Prompt| H[LLM - Google Gemini 1.5 Flash];
-    H -->|Response| I[Frontend UI];
  Tech Stack
 Backend: Python 3.10+, Flask
 LLM: Google Gemini 1.5 Flash
